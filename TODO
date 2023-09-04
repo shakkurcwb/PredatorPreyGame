@@ -1,0 +1,3 @@
+- handle walls collision (workaround it instead of crashing) - enables map editing;
+- implement is_walkable and is_permanent over objects;
+- implement neural network using TensorFlow;
