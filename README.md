@@ -2,6 +2,10 @@
 
 Simple simulation of Predators vs Preys using Python.
 
+<img src="PredatorPreyGame2.png"
+     alt="Predator Prey Game Picture 2"
+     style="" />
+
 ## Entities:
 
 Creatures:
@@ -65,9 +69,3 @@ If you don't have Python installed, you can download it from the [official Pytho
 ## License
 
 This project is licensed under the MIT License.
-
-## Picture
-
-<img src="PredatorPreyGame2.png"
-     alt="Predator Prey Game Picture 2"
-     style="" />
