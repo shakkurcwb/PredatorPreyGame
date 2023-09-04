@@ -9,14 +9,14 @@ Simple simulation of Predators vs Preys using Python.
 ## Entities:
 
 Creatures:
-- Predator: eats the prey (+10);
-- Prey: eats food (+5), get reward (+50) when closer, and run away from the predator;
+- Predator (red): eats the prey (+10);
+- Prey (green): eats food (+5), get reward (+50) when closer, and run away from the predator;
 
 Objects:
-- Wall: obstacle to punish and prevent creatures from crossing over (-100);
-- River: walkable tile that punishes all creatures (-10);
-- Food: walkable tile that reward preys (+5);
-- Reward: walkable tile that reward preys (+50) plus a random reward;
+- Wall (grey): obstacle to punish and prevent creatures from crossing over (-100);
+- River (aqua): walkable tile that punishes all creatures (-10);
+- Food (purple): walkable tile that reward preys (+5);
+- Reward (yellow): walkable tile that reward preys (+50) plus a random reward;
 
 ## Premises:
 
